@@ -1,1 +1,1 @@
-# BreadcrumbsByteByteGo Newsletters Collected
+# ByteByteGo Newsletters Collected
